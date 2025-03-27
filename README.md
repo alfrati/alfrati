@@ -9,7 +9,7 @@
 
 - 📫 You can reach me at **anafavoreti@outlook.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/anafavoreti](www.linkedin.com/in/anafavoreti)
+- 📄 Know about my experiences [Linkedin](www.linkedin.com/in/anafavoreti) [OrcID](https://orcid.org/0009-0002-1869-6299) [Lattes](http://lattes.cnpq.br/7704132989148348)
 
 - ⚡ Fun fact **I love street racing**
 
