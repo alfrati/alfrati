@@ -5,7 +5,7 @@
 
 - 🤩 I’m continuously working on projects in **data science, machine learning, and statistics to expand my expertise.**
 
-- 👨‍💻 My projects are available at [https://github.com/alfrati/Portfolio-Data-Science-and-Analytics](https://github.com/alfrati/Portfolio-Data-Science-and-Analytics)
+- 👨‍💻 My projects are available at [Portfolio](https://github.com/alfrati/Portfolio-Data-Science-and-Analytics)
 
 - 📫 You can reach me at **anafavoreti@outlook.com**
 
