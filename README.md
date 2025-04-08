@@ -11,8 +11,6 @@
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/anafavoreti) [OrcID](https://orcid.org/0009-0002-1869-6299) [Lattes](http://lattes.cnpq.br/7704132989148348)
 
-- ⚡ Fun fact **I love street racing**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anafavoreti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anafavoreti" height="30" width="40" /></a>
