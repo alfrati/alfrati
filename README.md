@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ana Favoreti</h1>
-<h3 align="center">🌍 An Environmental Engineer and Master's Student in Technology.</h3>
+<h3 align="center">🌍 An Environmental Engineer, Master in Technology and PhD in Science.</h3>
 
 - 📊 I’m passionate about **using data science and analytics to support business decision-making. Additionally, I’m also committed to promoting sustainable development and nature-based solutions.**
 
